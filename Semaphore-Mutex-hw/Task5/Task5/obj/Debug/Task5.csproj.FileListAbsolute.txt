@@ -1,0 +1,7 @@
+D:\Study\sys prog hw\Task5\Task5\bin\Debug\Task5.exe.config
+D:\Study\sys prog hw\Task5\Task5\bin\Debug\Task5.exe
+D:\Study\sys prog hw\Task5\Task5\bin\Debug\Task5.pdb
+D:\Study\sys prog hw\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\Study\sys prog hw\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\Study\sys prog hw\Task5\Task5\obj\Debug\Task5.exe
+D:\Study\sys prog hw\Task5\Task5\obj\Debug\Task5.pdb
