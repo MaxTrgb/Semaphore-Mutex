@@ -1,0 +1,42 @@
+Course: System programming
+Topic: Mutexes. Semaphores
+Module 4. Part 1
+Task 1:
+Create an application that uses the mutex mechanism.
+Create multiple threads in your application code. The first stream
+displays numbers from 0 to 20 in ascending order. The second stream
+waits for the first one to finish, then displays the numbers
+from 0 to 10 in reverse order. Output the data to the console.
+Task 2:
+Create an application that uses the mutex mechanism.
+Create multiple threads in your application code. Each of the streams
+receives an array with data. The first thread should modify
+elements of the array, increasing each by some arbitrary number
+(array element + arbitrary number). The second thread waits when
+the entire array will be modified, after which it finds
+maximum value in this array and displays it on
+screen Output the data (array and maximum) to the console.
+Task 3:
+Modify the second task. Must be displayed
+the maximum value and the modified array are out of stream
+function For example, mapping can be done in Main.
+Task 4:
+Create a console application that can only be run in
+one copy When trying to run a second copy, display
+information message and close the application.
+PRACTICAL TASK
+2
+Task 5:
+Create an application that uses the semaphore mechanism.
+Create ten threads in the application code. Each of the streams
+outputs a set of random numbers, after which it completes its own
+work Show stream id before rendering.
+Only three threads can run concurrently, other threads
+lined up. As soon as some thread completes its own
+execution, a new one is started.
+Task 6:
+Implement the first task in a windowed application.
+The choice of controls is up to you.
+Task 7:
+Implement the second task inside the windowed application
+interface. The choice of controls is up to you.
